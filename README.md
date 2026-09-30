@@ -1,3 +1,6 @@
+
+**PHÂN TÍCH INSIGHT**
+
 **1. Toàn cảnh thị trường (Market Overview):**
 - Quy mô và tốc độ tăng trưởng: Toàn thị trường đạt tổng doanh thu $932.80M với mức tăng trưởng doanh thu hàng năm (Revenue YoY) đạt +7.91%. Sản lượng bán ra đạt 2M sản phẩm (+0.93% YoY), trong khi giá bán trung bình (Avg Selling Price) tăng vọt +6.91% lên mức $422.12. - Điều này chỉ ra tăng trưởng doanh thu thị trường chủ yếu được thúc đẩy bởi việc tăng giá bán, không phải mở rộng sản lượng tiêu thụ. 
 - Cơ cấu danh mục và phân khúc: Doanh thu tập trung gần như áp đảo ở danh mục Urban ($0.8bn), trong khi các danh mục Rural, Youth và Mix chiếm tỷ trọng rất nhỏ. Xét theo phân khúc, Convenience ($0.32 billion) và Moderation ($0.24 billion) là hai động lực tạo dòng tiền lớn nhất thị trường. 
