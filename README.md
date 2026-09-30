@@ -39,6 +39,6 @@
 
 
 5. Đề xuất hành động chiến lược
-	Bảo vệ thị trường lõi (Defend Core): Tiếp tục dồn ngân sách marketing và chuỗi cung ứng vào cặp đôi danh mục Urban - Moderation/Convenience tại USA và Australia, bởi đây là kênh mang lại hơn 80% giá trị biên lợi nhuận. 
-	Kiểm soát chính sách giá và chiết khấu: Đánh giá lại mức giảm giá của các sản phẩm dòng Maximus ở danh mục Urban. Tỷ lệ chiết khấu sâu có nguy cơ làm xói mòn biên lợi nhuận ròng dù tổng doanh thu vẫn đạt kế hoạch. 
-	Khai phá thị trường ngách: Các danh mục như Youth và thị trường Japan, Germany hiện đóng góp tỷ trọng nhỏ nhưng có dư địa mở rộng nếu áp dụng đúng chiến lược định vị sản phẩm mới thay vì chỉ tập trung vào một phân khúc truyền thống. 
+- **Bảo vệ thị trường lõi (Defend Core):** Tiếp tục dồn ngân sách marketing và chuỗi cung ứng vào cặp đôi danh mục Urban - Moderation/Convenience tại USA và Australia, bởi đây là kênh mang lại hơn 80% giá trị biên lợi nhuận. 
+- **Kiểm soát chính sách giá và chiết khấu:** Đánh giá lại mức giảm giá của các sản phẩm dòng Maximus ở danh mục Urban. Tỷ lệ chiết khấu sâu có nguy cơ làm xói mòn biên lợi nhuận ròng dù tổng doanh thu vẫn đạt kế hoạch. 
+- **Khai phá thị trường ngách:** Các danh mục như Youth và thị trường Japan, Germany hiện đóng góp tỷ trọng nhỏ nhưng có dư địa mở rộng nếu áp dụng đúng chiến lược định vị sản phẩm mới thay vì chỉ tập trung vào một phân khúc truyền thống. 
